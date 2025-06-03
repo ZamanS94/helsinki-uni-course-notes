@@ -1,0 +1,8 @@
+The Human-Computer Interaction course (5 ECTS) in the Master’s Programme in Computer Science at the University of Helsinki covers key principles of user-centered design, usability, and interactive system development. It combines theory on user psychology, cognitive science, and empirical research with practical exercises and a project focused on designing and prototyping interactive systems. The course aims to equip students with skills to identify usability issues, design effective interfaces, and understand multidisciplinary aspects of HCI. It is taught in English and is recommended for first-year Master’s students.
+
+
+
+
+
+
+
